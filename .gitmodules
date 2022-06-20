@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "easycsv"]
+	path = easycsv
+	url = https://github.com/bogind/easycsv
+	shallow = true
+	registered = true
